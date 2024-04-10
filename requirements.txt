@@ -2,7 +2,7 @@ flax==0.7.0
 optax==0.1.7
 chex==0.1.82
 einops
-transformers==4.29.2
+transformers==4.38.0
 datasets==2.13.0
 tqdm
 ml_collections
